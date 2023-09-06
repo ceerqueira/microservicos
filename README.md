@@ -1,4 +1,4 @@
-# README - Microserviços em Java
+# Microserviços em Java
 
 Este é um repositório que contém um sistema de microserviços desenvolvido em Java, com quatro componentes principais: Gateway, Server, Pagamentos e Pedidos. Este sistema foi criado para demonstrar um exemplo simples de arquitetura de microserviços em Java.
 
@@ -59,14 +59,3 @@ Siga estas etapas para executar o sistema de microserviços:
 Certifique-se de que todas as portas estejam disponíveis e não estejam sendo usadas por outros serviços em sua máquina.
 
 
-## Contribuição
-
-Se você deseja contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests). Estamos abertos a melhorias e novas funcionalidades.
-
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
-
----
-
-Agradecemos por utilizar nosso sistema de microserviços em Java! Se você tiver alguma dúvida ou precisar de assistência, não hesite em entrar em contato conosco.
